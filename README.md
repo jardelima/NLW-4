@@ -12,7 +12,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e aprend
 
 O layout da aplicação está disponível no Figma e foi feito pelo Tiago Luchtenberg: <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=160:2761">Acessar Layout</a>
 
-  <img src="https://github.com/jardelima/NLW-4/blob/master/public/home.png" width="400" height="220"/>    <img src="https://github.com/jardelima/NLW-4/blob/master/public/challenge.png" width="400" height="220"/> <img src="https://github.com/jardelima/NLW-4/blob/master/public/levelUp.png" width="400" height="220"/>
+  <img src="https://github.com/jardelima/NLW-4/blob/master/public/home.png" width="400" height="220"/>    <img src="https://github.com/jardelima/NLW-4/blob/master/public/challenge.png" width="400" height="220"/>
 
 ## Como Executar o projeto :rocket:
 
