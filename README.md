@@ -52,8 +52,7 @@ As ferramentas utilizadas na construção do projeto foram:
 ## Alterações :clipboard:
 
 Lista de alterações que devem ser feitas:
-- [ ] Usar SASS no projeto.
-- [ ] Transformar Responsivo.
+- [ x ] Transformar Responsivo.
 
 ## Autor :relaxed:
 
